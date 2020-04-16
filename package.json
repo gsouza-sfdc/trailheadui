@@ -6,12 +6,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "publishConfig": {
-      "registry": "https://nexus.soma.salesforce.com/nexus/content/repositories/npmjs-internal/"
-  },
   "repository": {
     "type": "git",
-    "url": "https://git.soma.salesforce.com/gsouza/trailheadui"
+    "url": "https://github.com/gsouza-sfdc/trailheadui"
   },
   "author": "Gustavo Souza",
   "license": "ISC",
